@@ -1,0 +1,7 @@
+./training/*
+./testing/*
+./validation/*
+*.pyc
+./data/*
+./processed_data/*
+.DS_*
